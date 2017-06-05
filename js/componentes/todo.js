@@ -21,7 +21,6 @@ const TodoItem = (data,update) =>{
   });
   return todo;
 }
-
 const Todo = () => {
   const parent = $("<div class='white-card'></div>");
   const input = $("<input id='input-item' type='text' placeholder='Ingresa la tarea'>");
@@ -53,7 +52,6 @@ const Todo = () => {
 
   return parent;
 }
-
 
 const reRender = (todoList,completedList)=>{
   todoList.empty();

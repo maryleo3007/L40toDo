@@ -1,5 +1,4 @@
 'use strict';
-
 var render =  (root) => {
   root.empty();
   var wrapper = $('<div class="wrapper"></div>');

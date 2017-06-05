@@ -10,7 +10,7 @@ Se realizó el proyecto usando el patrón de diseño similar a react:
 ## ToDo: contenido
 
 ### Todo
-El nav en la versión mobile aparece como una menú tipo hamburguesa.<br/>
+
 ![gif-nav](assets/img-read/todo.gif)
 
 ## Desarrollado con:
