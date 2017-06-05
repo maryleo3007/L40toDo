@@ -5,7 +5,6 @@ var render =  (root) => {
   var wrapper = $('<div class="wrapper"></div>');
   wrapper.append(Header());
   wrapper.append(Todo());
-
   root.append(wrapper);
 }
 
